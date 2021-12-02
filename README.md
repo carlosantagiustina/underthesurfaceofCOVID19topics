@@ -2,7 +2,7 @@
 
 This repository contains supplementary information for exploring the topics of the manuscript "*LDA2Net*: Digging under the surface of COVID-19 topics in scientific literature" (G. Minello, C.R.M.A. Santagiustina, M. Warglien) available at:
 
-[ADD LINK TO PAPER]
+[http://dx.doi.org/10.13140/RG.2.2.31634.99524](dx.doi.org/10.13140/RG.2.2.31634.99524)
 
 For each topic the following information is provided:
 

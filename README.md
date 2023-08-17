@@ -8,7 +8,7 @@ It contains:
 
 - The Beta parameters matrix, containing the distribution of words in each topic. File: 'beta120k_final.csv'
 
-In addtion, for each topic of the estimated LDA model (with 120 topics) the following information is provided:
+In addition, for each topic of the estimated LDA model (with 120 topics) a PDF file with the following information is provided:
 
 - Human label and automatic n-gram label proposals.
 - Summary measures.

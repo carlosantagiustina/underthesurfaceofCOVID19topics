@@ -1,6 +1,6 @@
 # LDA2Net: Digging Under the Surface of COVID-19 scientific literature Topics via a Network-Based Approach
 
-This repository contains supplementary information for exploring the topics of the manuscript "*LDA2Net*: Digging Under the Surface of COVID-19 scientific literature Topics via a Network-Based Approach" (G. Minello, C.R.M.A. Santagiustina, M. Warglien), submitted to PLOS ONE and currently under riview.  A preliminary (Working Paper) version of the manuscript is publicly available at:
+This repository contains supplementary information for exploring the topics of the manuscript "*LDA2Net*: Digging Under the Surface of COVID-19 scientific literature Topics via a Network-Based Approach" (G. Minello, C.R.M.A. Santagiustina, M. Warglien), submitted to PLOS ONE and currently under review.  A preliminary (Working Paper) version of the manuscript is publicly available at:
 
 [dx.doi.org/10.13140/RG.2.2.31634.99524](http://dx.doi.org/10.13140/RG.2.2.31634.99524)
 

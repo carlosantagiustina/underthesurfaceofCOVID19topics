@@ -4,9 +4,9 @@ This repository contains supplementary information for exploring the topics of t
 
 [dx.doi.org/10.13140/RG.2.2.31634.99524](http://dx.doi.org/10.13140/RG.2.2.31634.99524)
 
-It contains:
+Supplementary information includes:
 
-- The Beta parameters matrix, containing the distribution of words in each topic. File: 'beta120k_final.csv'
+- The Beta parameters matrix, containing the distribution of words in each topic, which can be downloaded at the following link: [https://drive.google.com/file/d/1awk3UTy7tyJXhKNSve8YQSWdfWQujC4O/view?usp=sharing](https://drive.google.com/file/d/1awk3UTy7tyJXhKNSve8YQSWdfWQujC4O/view?usp=sharing)
 
 In addition, for each topic of the estimated LDA model (with 120 topics) a PDF file with the following information is provided:
 
